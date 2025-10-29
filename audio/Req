@@ -1,0 +1,4 @@
+Req: 
+- pip i pygame-ce
+- pip i pytmx
+- pip i python3
