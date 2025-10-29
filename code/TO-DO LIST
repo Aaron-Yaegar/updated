@@ -1,0 +1,22 @@
+TO LIST: 
+
+1. Menu: 
+    -Music (.wav) 
+    -Start & Exit
+    -Credits
+
+2. Speed Increment on Enemies
+    -Starts at self.speed = 5 and increments by +5 every 100 kills
+
+3. Kill Counter
+    -Variable/Object that will store and check Bullet_Collision and increase per Collision
+
+4. Game Over Overlay
+    -Improve, and stop ingame music.
+------------------------------------------------------------------------------------------------
+If time is not an issue. More to be added.
+
+1. Enemy Drops 
+    -Enemies Drops Bullets and Weapons
+2. Player Hp Bar
+    -Player gets hit 5 Timews before Dying
